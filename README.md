@@ -14,8 +14,4 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+"开发环境用proxyTable代理跨域，生产环境用nginx反向代理跨域都可以实现，线上地址因为只是有一个空间，无法设置其他，所以部分网页因跨域无法实现"
