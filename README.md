@@ -15,3 +15,4 @@ npm run dev
 npm run build
 
 "开发环境用proxyTable代理跨域，生产环境用nginx反向代理跨域都可以实现，线上地址因为只是有一个空间，无法设置其他，所以部分网页因跨域无法实现"
+线上预览地址：http://michaelzheng.3vzhuji.net/vue/
